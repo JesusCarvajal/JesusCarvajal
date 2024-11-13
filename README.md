@@ -1,6 +1,5 @@
 ### Hola a Todos
 
-### Soy estudiante de bachillerato
-### Actualmente estoy aprendiendo desarrollo web
-### Novato entusiasta de la tecnología
-### Usuario principiante de GNU/Linux
+### Estudiante de Ingeniería en Tecnología de Cómputo y Comunicaciones.
+### Programo por diversión.
+### Trabajo con electron js y web.
